@@ -1,0 +1,23 @@
+# Core computer vision & numerical
+opencv-python
+numpy
+
+# Data processing
+pandas
+asammdf
+mat73
+
+# Image processing
+Pillow
+
+# Excel read/write
+openpyxl
+
+# PDF report generation
+reportlab
+
+# Plotting
+matplotlib
+
+# YOLO object detection
+ultralytics
